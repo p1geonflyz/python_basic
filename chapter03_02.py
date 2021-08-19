@@ -39,7 +39,6 @@ print('a \"\" b')
 \" : 문자
 \000 : 널 문자
 ...
-
 """
 
 escape_str1 = "Do you have a \"retro games\"?"
